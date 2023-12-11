@@ -1,0 +1,229 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: monospace;
+}
+
+/* nabar css start */
+nav {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 1));
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(10px);
+
+}
+
+.bg-img {
+  margin-top: ;
+  position: static;
+  height: 100%;
+  background-position: center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-image: url(C:\Users\Admin\Desktop\React\osumareproject\src\Used Images\background-complete 1.png);
+}
+
+img {
+  width: 30vh;
+}
+
+span {
+  color: #0078FF;
+}
+
+.home-img {
+  width: 50%;
+  height: 100%;
+}
+
+.text-img {
+  width: 10vw;
+  left: 37vw;
+  margin-top: 11vw;
+}
+
+.dot-light {
+  background: linear-gradient(to right, #409AFF, #409AFF);
+  filter: blur(50px);
+  opacity: 10%;
+}
+
+/* nabar css ends */
+
+/* Second css start */
+.img-info {
+  height: 100%;
+  width: 100%;
+}
+
+/* Second css ends */
+
+/* Third css  start*/
+.logos {
+  background-color: #f9f9f9;
+  height: auto;
+
+}
+
+.logos img {
+  width: 25%;
+  padding: 8%;
+  border-radius: 50%;
+  background-color: #f9f9f9;
+}
+
+.card {
+  height: 30vw;
+  border: none;
+
+  width: UTO;
+  align-items: center;
+}
+
+.logos .col {
+  background-color: #ffff;
+  border-radius: 5%;
+}
+
+/* Third css ends */
+
+/* DigitalLandscape css start */
+.logo img {
+  width: 4vw;
+  padding: 1vw;
+  border-radius: 50%;
+  background-color: #f9f9f9;
+}
+
+.main-div {
+  overflow: ;
+
+}
+
+.log {
+  background-color: #ffff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  min-width: 4vw;
+  height: 25vh;
+
+}
+
+.left img {
+  min-width: 100%;
+  min-height: 120vh;
+  max-height: 122vh;
+}
+
+/* DigitalLandscape css ends */
+
+/* DrivingProperty css starts */
+.abc img {
+  background-color: #f9f9f9;
+  border-radius: 50%;
+  padding: 3%;
+  margin-top: 15%;
+}
+
+/* drivingProperty css ends */
+
+/* Mind css start */
+.left-bg {
+  /* background: linear-gradient( to  left,
+  #FF725E,#409AFF);
+  filter: blur(); */
+
+  background-image: radial-gradient(40% 40%,
+      #FF725E, white);
+  filter: blur(150px);
+  margin-top: 10%;
+  height: 100%;
+
+}
+
+.right-bg {
+  /* background: linear-gradient( to  left,
+  #FF725E,#409AFF);
+  filter: blur(); */
+
+  background-image: radial-gradient(50% 50%,
+      #409AFF, white);
+  filter: blur(150px);
+  margin-top: 10%;
+  height: 100%;
+
+}
+
+.vimg img {
+  width: 100%;
+  height: 100%;
+}
+
+.logot {
+
+  border-radius: 50%;
+  width: 5vw;
+}
+
+.shad {
+  background-color: #ffff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.symbol {
+  width: 4vw;
+}
+
+.arr {
+  width: auto;
+  margin-top: 5%;
+  margin-left: 5%;
+  border: 2px solid #409AFF;
+  border-radius: 50%;
+  padding: 2%;
+}
+
+.arr :hover {
+  background-color: red;
+}
+
+.button5 {
+  border-radius: 50%;
+}
+
+
+.log-bt-n {
+  background-color: #ffff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
+
+.log-bt {
+  background-color: #409AFF;
+}
+
+/* Mind css ends */
+
+/* Contact css starts */
+.log-c {
+  background-color: #ffff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  height: auto;
+}
+
+/* Contact css ends */
+
+/* Footer css starts */
+.social img {
+  width: 3vw;
+  background-color: #ffff;
+  padding: 15%;
+  border-radius: 50%;
+}
+
+/* footer css ends */
